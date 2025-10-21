@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap-0.9">
+  <!-- Main Documentation -->
+  <url><loc>https://redis.io/docs/latest/</loc></url>
+  
+  <!-- Get Started -->
+  <url><loc>https://redis.io/docs/latest/get-started/</loc></url>
+  <url><loc>https://redis.io/docs/latest/get-started/data-store/</loc></url>
+  <url><loc>https://redis.io/docs/latest/get-started/document-database/</loc></url>
+  
+  <!-- Develop -->
+  <url><loc>https://redis.io/docs/latest/develop/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/connect/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/connect/clients/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/clients/</loc></url>
+  
+  <!-- Data Types -->
+  <url><loc>https://redis.io/docs/latest/develop/data-types/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/data-types/strings/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/data-types/lists/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/data-types/sets/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/data-types/sorted-sets/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/data-types/hashes/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/data-types/streams/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/data-types/geospatial/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/data-types/bitmaps/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/data-types/bitfields/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/data-types/hyperloglogs/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/data-types/probabilistic/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/data-types/json/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/data-types/timeseries/</loc></url>
+  
+  <!-- Use Cases -->
+  <url><loc>https://redis.io/docs/latest/develop/use/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/use/patterns/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/use/keyspace/</loc></url>
+  
+  <!-- Interact -->
+  <url><loc>https://redis.io/docs/latest/develop/interact/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/interact/transactions/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/interact/pubsub/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/interact/programmability/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/interact/search-and-query/</loc></url>
+  
+  <!-- Tools -->
+  <url><loc>https://redis.io/docs/latest/develop/tools/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/tools/redis-cli/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/tools/insight/</loc></url>
+  
+  <!-- Integrate -->
+  <url><loc>https://redis.io/docs/latest/integrate/</loc></url>
+  <url><loc>https://redis.io/docs/latest/integrate/redis-data-integration/</loc></url>
+  <url><loc>https://redis.io/docs/latest/integrate/redisvl/</loc></url>
+  
+  <!-- Commands -->
+  <url><loc>https://redis.io/docs/latest/commands/</loc></url>
+  <url><loc>https://redis.io/docs/latest/commands/append/</loc></url>
+  <url><loc>https://redis.io/docs/latest/commands/get/</loc></url>
+  <url><loc>https://redis.io/docs/latest/commands/set/</loc></url>
+  <url><loc>https://redis.io/docs/latest/commands/incr/</loc></url>
+  <url><loc>https://redis.io/docs/latest/commands/decr/</loc></url>
+  <url><loc>https://redis.io/docs/latest/commands/lpush/</loc></url>
+  <url><loc>https://redis.io/docs/latest/commands/rpush/</loc></url>
+  <url><loc>https://redis.io/docs/latest/commands/lpop/</loc></url>
+  <url><loc>https://redis.io/docs/latest/commands/rpop/</loc></url>
+  <url><loc>https://redis.io/docs/latest/commands/sadd/</loc></url>
+  <url><loc>https://redis.io/docs/latest/commands/smembers/</loc></url>
+  <url><loc>https://redis.io/docs/latest/commands/zadd/</loc></url>
+  <url><loc>https://redis.io/docs/latest/commands/zrange/</loc></url>
+  <url><loc>https://redis.io/docs/latest/commands/hset/</loc></url>
+  <url><loc>https://redis.io/docs/latest/commands/hget/</loc></url>
+  <url><loc>https://redis.io/docs/latest/commands/hgetall/</loc></url>
+  <url><loc>https://redis.io/docs/latest/commands/xadd/</loc></url>
+  <url><loc>https://redis.io/docs/latest/commands/xread/</loc></url>
+  <url><loc>https://redis.io/docs/latest/commands/xrange/</loc></url>
+  
+  <!-- Operate -->
+  <url><loc>https://redis.io/docs/latest/operate/</loc></url>
+  <url><loc>https://redis.io/docs/latest/operate/oss_and_stack/</loc></url>
+  <url><loc>https://redis.io/docs/latest/operate/oss_and_stack/install/</loc></url>
+  <url><loc>https://redis.io/docs/latest/operate/oss_and_stack/management/</loc></url>
+  <url><loc>https://redis.io/docs/latest/operate/oss_and_stack/config/</loc></url>
+  <url><loc>https://redis.io/docs/latest/operate/oss_and_stack/management/persistence/</loc></url>
+  <url><loc>https://redis.io/docs/latest/operate/oss_and_stack/management/replication/</loc></url>
+  <url><loc>https://redis.io/docs/latest/operate/oss_and_stack/management/sentinel/</loc></url>
+  <url><loc>https://redis.io/docs/latest/operate/oss_and_stack/management/scaling/</loc></url>
+  <url><loc>https://redis.io/docs/latest/operate/oss_and_stack/management/security/</loc></url>
+  <url><loc>https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/</loc></url>
+  
+  <!-- Redis Stack -->
+  <url><loc>https://redis.io/docs/latest/operate/oss_and_stack/stack-with-enterprise/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/interact/search-and-query/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/data-types/json/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/data-types/timeseries/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/data-types/probabilistic/</loc></url>
+  
+  <!-- Redis Cloud -->
+  <url><loc>https://redis.io/docs/latest/operate/rc/</loc></url>
+  <url><loc>https://redis.io/docs/latest/operate/rc/databases/</loc></url>
+  <url><loc>https://redis.io/docs/latest/operate/rc/subscriptions/</loc></url>
+  <url><loc>https://redis.io/docs/latest/operate/rc/security/</loc></url>
+  
+  <!-- Redis Enterprise -->
+  <url><loc>https://redis.io/docs/latest/operate/rs/</loc></url>
+  <url><loc>https://redis.io/docs/latest/operate/rs/installing-upgrading/</loc></url>
+  <url><loc>https://redis.io/docs/latest/operate/rs/databases/</loc></url>
+  <url><loc>https://redis.io/docs/latest/operate/rs/clusters/</loc></url>
+  <url><loc>https://redis.io/docs/latest/operate/rs/security/</loc></url>
+  
+  <!-- Kubernetes -->
+  <url><loc>https://redis.io/docs/latest/operate/kubernetes/</loc></url>
+  <url><loc>https://redis.io/docs/latest/operate/kubernetes/deployment/</loc></url>
+  <url><loc>https://redis.io/docs/latest/operate/kubernetes/re-databases/</loc></url>
+  
+  <!-- Reference -->
+  <url><loc>https://redis.io/docs/latest/reference/</loc></url>
+  <url><loc>https://redis.io/docs/latest/reference/protocol-spec/</loc></url>
+  <url><loc>https://redis.io/docs/latest/reference/modules/</loc></url>
+  
+  <!-- AI & Vector -->
+  <url><loc>https://redis.io/docs/latest/develop/get-started/vector-database/</loc></url>
+  <url><loc>https://redis.io/docs/latest/develop/interact/search-and-query/advanced-concepts/vectors/</loc></url>
+</urlset>
+

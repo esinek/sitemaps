@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap-image/1.1" encoding="utf-8">
+  <url>
+    <loc>https://docs.docker.com/build/bake/</loc>
+  </url>
+  <url>
+    <loc>https://docs.docker.com/build/bake/introduction/</loc>
+  </url>
+  <url>
+    <loc>https://docs.docker.com/build/bake/file-definition/</loc>
+  </url>
+  <url>
+    <loc>https://docs.docker.com/build/bake/targets/</loc>
+  </url>
+  <url>
+    <loc>https://docs.docker.com/build/bake/build-contexts/</loc>
+  </url>
+  <url>
+    <loc>https://docs.docker.com/build/bake/variables/</loc>
+  </url>
+  <url>
+    <loc>https://docs.docker.com/build/bake/configuring-build/</loc>
+  </url>
+  <url>
+    <loc>https://docs.docker.com/build/bake/reference/</loc>
+  </url>
+  <url>
+    <loc>https://docs.docker.com/build/bake/advanced/</loc>
+  </url>
+  <url>
+    <loc>https://docs.docker.com/build/bake/compose-file/</loc>
+  </url>
+  <url>
+    <loc>https://docs.docker.com/build/bake/remote-definition/</loc>
+  </url>
+  <url>
+    <loc>https://docs.docker.com/build/bake/overrides/</loc>
+  </url>
+  <url>
+    <loc>https://docs.docker.com/build/bake/expressions/</loc>
+  </url>
+  <url>
+    <loc>https://docs.docker.com/build/bake/funcs/</loc>
+  </url>
+  <url>
+    <loc>https://docs.docker.com/build/bake/matrices/</loc>
+  </url>
+  <url>
+    <loc>https://docs.docker.com/build/bake/inheritance/</loc>
+  </url>
+  <url>
+    <loc>https://docs.docker.com/build/bake/hcl/</loc>
+  </url>
+</urlset>
+
