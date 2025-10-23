@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"><url><loc>https://d3js.org/api</loc></url><url><loc>https://d3js.org/community</loc></url><url><loc>https://d3js.org/d3-array</loc></url><url><loc>https://d3js.org/d3-array/add</loc></url><url><loc>https://d3js.org/d3-array/bin</loc></url><url><loc>https://d3js.org/d3-array/bisect</loc></url><url><loc>https://d3js.org/d3-array/blur</loc></url><url><loc>https://d3js.org/d3-array/group</loc></url><url><loc>https://d3js.org/d3-array/intern</loc></url><url><loc>https://d3js.org/d3-array/sets</loc></url><url><loc>https://d3js.org/d3-array/sort</loc></url><url><loc>https://d3js.org/d3-array/summarize</loc></url><url><loc>https://d3js.org/d3-array/ticks</loc></url><url><loc>https://d3js.org/d3-array/transform</loc></url><url><loc>https://d3js.org/d3-axis</loc></url><url><loc>https://d3js.org/d3-brush</loc></url><url><loc>https://d3js.org/d3-chord</loc></url><url><loc>https://d3js.org/d3-chord/chord</loc></url><url><loc>https://d3js.org/d3-chord/ribbon</loc></url><url><loc>https://d3js.org/d3-color</loc></url><url><loc>https://d3js.org/d3-contour</loc></url><url><loc>https://d3js.org/d3-contour/contour</loc></url><url><loc>https://d3js.org/d3-contour/density</loc></url><url><loc>https://d3js.org/d3-delaunay</loc></url><url><loc>https://d3js.org/d3-delaunay/delaunay</loc></url><url><loc>https://d3js.org/d3-delaunay/voronoi</loc></url><url><loc>https://d3js.org/d3-dispatch</loc></url><url><loc>https://d3js.org/d3-drag</loc></url><url><loc>https://d3js.org/d3-dsv</loc></url><url><loc>https://d3js.org/d3-ease</loc></url><url><loc>https://d3js.org/d3-fetch</loc></url><url><loc>https://d3js.org/d3-force</loc></url><url><loc>https://d3js.org/d3-force/center</loc></url><url><loc>https://d3js.org/d3-force/collide</loc></url><url><loc>https://d3js.org/d3-force/link</loc></url><url><loc>https://d3js.org/d3-force/many-body</loc></url><url><loc>https://d3js.org/d3-force/position</loc></url><url><loc>https://d3js.org/d3-force/simulation</loc></url><url><loc>https://d3js.org/d3-format</loc></url><url><loc>https://d3js.org/d3-geo</loc></url><url><loc>https://d3js.org/d3-geo/azimuthal</loc></url><url><loc>https://d3js.org/d3-geo/conic</loc></url><url><loc>https://d3js.org/d3-geo/cylindrical</loc></url><url><loc>https://d3js.org/d3-geo/math</loc></url><url><loc>https://d3js.org/d3-geo/path</loc></url><url><loc>https://d3js.org/d3-geo/projection</loc></url><url><loc>https://d3js.org/d3-geo/shape</loc></url><url><loc>https://d3js.org/d3-geo/stream</loc></url><url><loc>https://d3js.org/d3-hierarchy</loc></url><url><loc>https://d3js.org/d3-hierarchy/cluster</loc></url><url><loc>https://d3js.org/d3-hierarchy/hierarchy</loc></url><url><loc>https://d3js.org/d3-hierarchy/pack</loc></url><url><loc>https://d3js.org/d3-hierarchy/partition</loc></url><url><loc>https://d3js.org/d3-hierarchy/stratify</loc></url><url><loc>https://d3js.org/d3-hierarchy/tree</loc></url><url><loc>https://d3js.org/d3-hierarchy/treemap</loc></url><url><loc>https://d3js.org/d3-interpolate</loc></url><url><loc>https://d3js.org/d3-interpolate/color</loc></url><url><loc>https://d3js.org/d3-interpolate/transform</loc></url><url><loc>https://d3js.org/d3-interpolate/value</loc></url><url><loc>https://d3js.org/d3-interpolate/zoom</loc></url><url><loc>https://d3js.org/d3-path</loc></url><url><loc>https://d3js.org/d3-polygon</loc></url><url><loc>https://d3js.org/d3-quadtree</loc></url><url><loc>https://d3js.org/d3-random</loc></url><url><loc>https://d3js.org/d3-scale-chromatic</loc></url><url><loc>https://d3js.org/d3-scale-chromatic/categorical</loc></url><url><loc>https://d3js.org/d3-scale-chromatic/cyclical</loc></url><url><loc>https://d3js.org/d3-scale-chromatic/diverging</loc></url><url><loc>https://d3js.org/d3-scale-chromatic/sequential</loc></url><url><loc>https://d3js.org/d3-scale</loc></url><url><loc>https://d3js.org/d3-scale/band</loc></url><url><loc>https://d3js.org/d3-scale/diverging</loc></url><url><loc>https://d3js.org/d3-scale/linear</loc></url><url><loc>https://d3js.org/d3-scale/log</loc></url><url><loc>https://d3js.org/d3-scale/ordinal</loc></url><url><loc>https://d3js.org/d3-scale/point</loc></url><url><loc>https://d3js.org/d3-scale/pow</loc></url><url><loc>https://d3js.org/d3-scale/quantile</loc></url><url><loc>https://d3js.org/d3-scale/quantize</loc></url><url><loc>https://d3js.org/d3-scale/sequential</loc></url><url><loc>https://d3js.org/d3-scale/symlog</loc></url><url><loc>https://d3js.org/d3-scale/threshold</loc></url><url><loc>https://d3js.org/d3-scale/time</loc></url><url><loc>https://d3js.org/d3-selection</loc></url><url><loc>https://d3js.org/d3-selection/control-flow</loc></url><url><loc>https://d3js.org/d3-selection/events</loc></url><url><loc>https://d3js.org/d3-selection/joining</loc></url><url><loc>https://d3js.org/d3-selection/locals</loc></url><url><loc>https://d3js.org/d3-selection/modifying</loc></url><url><loc>https://d3js.org/d3-selection/namespaces</loc></url><url><loc>https://d3js.org/d3-selection/selecting</loc></url><url><loc>https://d3js.org/d3-shape</loc></url><url><loc>https://d3js.org/d3-shape/arc</loc></url><url><loc>https://d3js.org/d3-shape/area</loc></url><url><loc>https://d3js.org/d3-shape/curve</loc></url><url><loc>https://d3js.org/d3-shape/line</loc></url><url><loc>https://d3js.org/d3-shape/link</loc></url><url><loc>https://d3js.org/d3-shape/pie</loc></url><url><loc>https://d3js.org/d3-shape/radial-area</loc></url><url><loc>https://d3js.org/d3-shape/radial-line</loc></url><url><loc>https://d3js.org/d3-shape/radial-link</loc></url><url><loc>https://d3js.org/d3-shape/stack</loc></url><url><loc>https://d3js.org/d3-shape/symbol</loc></url><url><loc>https://d3js.org/d3-time-format</loc></url><url><loc>https://d3js.org/d3-time</loc></url><url><loc>https://d3js.org/d3-timer</loc></url><url><loc>https://d3js.org/d3-transition</loc></url><url><loc>https://d3js.org/d3-transition/control-flow</loc></url><url><loc>https://d3js.org/d3-transition/modifying</loc></url><url><loc>https://d3js.org/d3-transition/selecting</loc></url><url><loc>https://d3js.org/d3-transition/timing</loc></url><url><loc>https://d3js.org/d3-zoom</loc></url><url><loc>https://d3js.org/getting-started</loc></url><url><loc>https://d3js.org/</loc></url><url><loc>https://d3js.org/what-is-d3</loc></url>
+  
+  <!-- Advanced D3 Features -->
+  <url><loc>https://d3js.org/advanced/</loc></url>
+  <url><loc>https://d3js.org/advanced/performance</loc></url>
+  <url><loc>https://d3js.org/advanced/optimization</loc></url>
+  <url><loc>https://d3js.org/advanced/memory-management</loc></url>
+  <url><loc>https://d3js.org/advanced/rendering</loc></url>
+  <url><loc>https://d3js.org/advanced/animation</loc></url>
+  
+  <!-- Advanced Visualization Patterns -->
+  <url><loc>https://d3js.org/patterns/</loc></url>
+  <url><loc>https://d3js.org/patterns/interactive-charts</loc></url>
+  <url><loc>https://d3js.org/patterns/dashboard</loc></url>
+  <url><loc>https://d3js.org/patterns/data-storytelling</loc></url>
+  <url><loc>https://d3js.org/patterns/real-time-visualization</loc></url>
+  <url><loc>https://d3js.org/patterns/responsive-design</loc></url>
+  <url><loc>https://d3js.org/patterns/accessibility</loc></url>
+  
+  <!-- Advanced Data Processing -->
+  <url><loc>https://d3js.org/data/</loc></url>
+  <url><loc>https://d3js.org/data/transformation</loc></url>
+  <url><loc>https://d3js.org/data/aggregation</loc></url>
+  <url><loc>https://d3js.org/data/filtering</loc></url>
+  <url><loc>https://d3js.org/data/sorting</loc></url>
+  <url><loc>https://d3js.org/data/grouping</loc></url>
+  <url><loc>https://d3js.org/data/normalization</loc></url>
+  
+  <!-- Advanced Interactions -->
+  <url><loc>https://d3js.org/interactions/</loc></url>
+  <url><loc>https://d3js.org/interactions/zoom</loc></url>
+  <url><loc>https://d3js.org/interactions/pan</loc></url>
+  <url><loc>https://d3js.org/interactions/brush</loc></url>
+  <url><loc>https://d3js.org/interactions/drag</loc></url>
+  <url><loc>https://d3js.org/interactions/selection</loc></url>
+  <url><loc>https://d3js.org/interactions/tooltips</loc></url>
+  
+  <!-- Advanced Animations -->
+  <url><loc>https://d3js.org/animations/</loc></url>
+  <url><loc>https://d3js.org/animations/transitions</loc></url>
+  <url><loc>https://d3js.org/animations/easing</loc></url>
+  <url><loc>https://d3js.org/animations/timing</loc></url>
+  <url><loc>https://d3js.org/animations/sequencing</loc></url>
+  <url><loc>https://d3js.org/animations/performance</loc></url>
+  
+  <!-- Advanced Layouts -->
+  <url><loc>https://d3js.org/layouts/</loc></url>
+  <url><loc>https://d3js.org/layouts/force-directed</loc></url>
+  <url><loc>https://d3js.org/layouts/hierarchical</loc></url>
+  <url><loc>https://d3js.org/layouts/treemap</loc></url>
+  <url><loc>https://d3js.org/layouts/sankey</loc></url>
+  <url><loc>https://d3js.org/layouts/chord</loc></url>
+  <url><loc>https://d3js.org/layouts/bundle</loc></url>
+  
+  <!-- Advanced Scales -->
+  <url><loc>https://d3js.org/scales/</loc></url>
+  <url><loc>https://d3js.org/scales/continuous</loc></url>
+  <url><loc>https://d3js.org/scales/ordinal</loc></url>
+  <url><loc>https://d3js.org/scales/band</loc></url>
+  <url><loc>https://d3js.org/scales/point</loc></url>
+  <url><loc>https://d3js.org/scales/time</loc></url>
+  <url><loc>https://d3js.org/scales/color</loc></url>
+  
+  <!-- Advanced Shapes -->
+  <url><loc>https://d3js.org/shapes/</loc></url>
+  <url><loc>https://d3js.org/shapes/arc</loc></url>
+  <url><loc>https://d3js.org/shapes/area</loc></url>
+  <url><loc>https://d3js.org/shapes/line</loc></url>
+  <url><loc>https://d3js.org/shapes/curve</loc></url>
+  <url><loc>https://d3js.org/shapes/symbol</loc></url>
+  <url><loc>https://d3js.org/shapes/stack</loc></url>
+  
+  <!-- Best Practices -->
+  <url><loc>https://d3js.org/best-practices/</loc></url>
+  <url><loc>https://d3js.org/best-practices/performance</loc></url>
+  <url><loc>https://d3js.org/best-practices/accessibility</loc></url>
+  <url><loc>https://d3js.org/best-practices/responsive</loc></url>
+  <url><loc>https://d3js.org/best-practices/code-organization</loc></url>
+  <url><loc>https://d3js.org/best-practices/testing</loc></url>
+  <url><loc>https://d3js.org/best-practices/debugging</loc></url>
+  
+  <!-- Integration Guides -->
+  <url><loc>https://d3js.org/integrations/</loc></url>
+  <url><loc>https://d3js.org/integrations/react</loc></url>
+  <url><loc>https://d3js.org/integrations/vue</loc></url>
+  <url><loc>https://d3js.org/integrations/angular</loc></url>
+  <url><loc>https://d3js.org/integrations/nextjs</loc></url>
+  <url><loc>https://d3js.org/integrations/webpack</loc></url>
+  <url><loc>https://d3js.org/integrations/typescript</loc></url>
+  
+  <!-- Troubleshooting -->
+  <url><loc>https://d3js.org/troubleshooting/</loc></url>
+  <url><loc>https://d3js.org/troubleshooting/common-issues</loc></url>
+  <url><loc>https://d3js.org/troubleshooting/performance-issues</loc></url>
+  <url><loc>https://d3js.org/troubleshooting/rendering-issues</loc></url>
+  <url><loc>https://d3js.org/troubleshooting/data-issues</loc></url>
+  <url><loc>https://d3js.org/troubleshooting/animation-issues</loc></url>
+  
+</urlset>
